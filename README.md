@@ -73,8 +73,8 @@
 ## Github Stats:
 <p align="center">
     <a href="https://github.com/kauaduartt">
-        <img height="350em" src="https://github-stats-extended.vercel.app/api?username=kauaduartt&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=city_lights)](https://github-stats-extended.vercel.app/api?username=kauaduartt&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=city_lights"/>
-        <img height="350em" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauaduartt&layout=donut-vertical&langs_count=6&hide_values=true&theme=city_lights)](https://github-stats-extended.vercel.app/api/top-langs?username=kauaduartt&layout=donut-vertical&langs_count=6&hide_values=true&theme=city_lights" />
+        <img height="250em" src="https://github-stats-extended.vercel.app/api?username=kauaduartt&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=city_lights)](https://github-stats-extended.vercel.app/api?username=kauaduartt&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=city_lights"/>
+        <img height="250em" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauaduartt&layout=donut-vertical&langs_count=6&hide_values=true&theme=city_lights)](https://github-stats-extended.vercel.app/api/top-langs?username=kauaduartt&layout=donut-vertical&langs_count=6&hide_values=true&theme=city_lights" />
     </a>
 </p>
 
